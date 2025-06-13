@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/Levels/PL_BrindleIsle.umap",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/BP_NPC.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/BP_NPC_Bob.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/BP_NPC_Walter.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/ThirdPerson/Blueprints/BP_Nyra.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/WP_Dialogue.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/WP_PressE.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/WP_InteractMarker.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/Levels/SL_BrindleIsle_Lighting.umap",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/NPCs/BP_NPC_Lisa.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/TemplateResources/MI_Template_BasePink.uasset",
+				"C:/Users/Peter de Vos/Desktop/Personal/TheLanternTide/TheLanternTide/Content/Levels/SL_BrindleIsle_Mockup.umap",
 				"C:/Users/Peter de Vos/Desktop/Personal/LanternTide/TheLanternTide/Content/Levels/PL_BrindleIsle.umap",
 				"C:/Users/Peter de Vos/Desktop/Personal/LanternTide/TheLanternTide/Content/Levels/SL_BrindleIsle_Mockup.umap"
 			]
