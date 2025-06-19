@@ -1,6 +1,6 @@
 ---
 
-# 🌌 The Lantern Tide
+🌌 The Lantern Tide
 
 **A narrative exploration platformer about memory, culture, and quiet courage.**
 
